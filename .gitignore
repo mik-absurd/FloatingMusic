@@ -1,0 +1,30 @@
+# Build outputs and dependency cache
+*.exe
+*.pdb
+*.zip
+src/.build/
+.build/
+bin/
+obj/
+
+# Local settings and user-imported lyrics
+preferences.ini
+lyrics/
+*.choice.json
+
+# Diagnostics and temporary output
+*.log
+seek-status.txt
+state-readback.txt
+audio-sessions.txt
+volume-test.txt
+diagnostics.txt
+lyrics-tests*.txt
+test-results/
+*.tmp
+
+# Editors and operating system
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
