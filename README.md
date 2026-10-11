@@ -6,6 +6,10 @@
 
 这是独立开发的第三方工具，与 Apple 无隶属关系。它控制已经运行的 Windows Apple Music 客户端，不包含音乐流媒体播放器，也不需要打开官方迷你播放器。
 
+<p align="center">
+  <img src="docs/images/floatingmusic-preview.png" alt="浮光播放器界面：播放控制、音量、待播列表入口与同步歌词" width="390" />
+</p>
+
 ## 功能
 
 | 功能 | 说明 |
@@ -156,7 +160,7 @@ src/
 - [windows-apple-music-remote](https://github.com/ahmetberber/windows-apple-music-remote)：Windows Apple Music 辅助功能控件交互的实现参考。
 - Microsoft Windows 系统媒体会话、UI Automation、Core Audio 与 WPF。
 
-Apple Music 名称及相关商标属于其权利人；歌词和音乐内容不随项目分发。
+Apple Music 名称及相关商标属于其权利人。项目不附带歌曲音频或歌词库；截图中的内容仅用于界面展示。
 
 参考项目的版权和许可声明见 [第三方声明](THIRD_PARTY_NOTICES.md)。
 
